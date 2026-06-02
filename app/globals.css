@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Noto+Sans+KR:wght@400;500;700;900&display=swap');
+
+:root {
+  color-scheme: light only;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  background: #fdfaf5 !important;
+  color: #2d2620;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 14px;
+  min-height: 100vh;
+}
+
+body {
+  background-image:
+    radial-gradient(circle at 10% 20%, rgba(255, 180, 120, 0.06) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(249, 183, 58, 0.06) 0%, transparent 40%);
+  background-attachment: fixed;
+}

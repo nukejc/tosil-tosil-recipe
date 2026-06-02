@@ -1,0 +1,21 @@
+{
+  "name": "토실토실 레시피",
+  "short_name": "토실토실",
+  "description": "우리집 레시피 모음",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfaf5",
+  "theme_color": "#fdfaf5",
+  "icons": [
+    {
+  "src": "/icon-512.png",
+  "sizes": "512x512",
+  "type": "image/png"
+},
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
